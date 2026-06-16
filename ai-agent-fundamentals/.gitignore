@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+/venv/
+
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Markdown / notes (if you don't want to track them)
+path.md
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE / editor folders
+.vscode/
+.idea/
+
+sample/
+
+db/
